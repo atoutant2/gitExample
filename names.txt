@@ -1,3 +1,4 @@
+role,NetID,LastName,FirstName
 boss,atoutant,Toutant,Aurora
 employee,sadesai3,Desai,Simran
 
